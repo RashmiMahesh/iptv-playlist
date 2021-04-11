@@ -1,21 +1,15 @@
 #EXTM3U
 
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Movies",PRIVE HD
+#EXTINF:0 tvg-logo="" group-title="Movies",PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="News",ABC AU
+#EXTINF:0 tvg-logo="https://i.imgur.com/rLCHYCs.png" group-title="News",ABC AU
 https://c.mjh.nz/101002210221/?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Kids",ABC Kids
+#EXTINF:0 tvg-logo="https://i.imgur.com/DQqcXqk.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/101002210222/?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/wIdfcUx.png" group-title="Kids",ABC Me
+#EXTINF:0 tvg-logo="https://i.imgur.com/wIdfcUx.png" group-title="Kids",ABC Me
 https://c.mjh.nz/101002210224/?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="AU" tvg-logo="https://i.imgur.com/VsvBUCa.jpg" group-title="News",Bloomberg TV Australia
-https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/320px-Sky-news-logo.png", Sky News UK
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/%28AUS%29_ABCnews-logo.png/revision/latest?cb=20160127035930", ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1,tvg-name="Russia Today" tvg-id="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/240px-Russia-today-logo.svg.png" group-title="News", Russia Today
-https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1, tvg-id="9SYD" tvg-name="9 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="Australian",9 Sydney
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 #EXTINF:-1 tvg-id="7SYD" tvg-name="7 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/228px-Seven_Network_logo.svg.png" group-title="Australian",7 Sydney
@@ -46,10 +40,12 @@ https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 #EXTINF:-1, tvg-name="9 Rush Sydney" tvg-id="9RushSYD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Logo_of_9RUSH.png" group-title="Australian", 9 Rush Syd
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+#EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", Channel 10
+https://live.10play.com.au/10NSW/stream.m3u8
 #EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/320px-10_Peach_logo_2018.svg.png", TEN Peach Syd
-https://dwd941bx75no0.cloudfront.net/10PeachNSW/stream.m3u8
+https://live.10play.com.au/10PeachNSW/stream.m3u8
 #EXTINF:-1 tvg-id="TENSYD" tvg-name="TEN Bold Sydney" group-title="Australian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/10_Bold_2018.svg/320px-10_Bold_2018.svg.png", TEN Bold Syd
-https://d3dilkfpueg8q1.cloudfront.net/10BoldNSW/stream.m3u8
+https://live.10play.com.au/10BoldNSW/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/252px-Film4_logo_2018.svg.png", BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/320px-ITV2_logo_2015.svg.png" ,Itv2
