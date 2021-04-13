@@ -1,0 +1,21 @@
+
+#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-name="Asianet News Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News", ಏಷಿಯಾನೇಟ್ ಸುವರ್ಣ ಸುದ್ದಿ (Asianet News Kannada)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DighvijayNews24x7.in" tvg-name="Dighvijay News 24x7" tvg-country="IN" tvg-language="" tvg-logo="https://i.imgur.com/wdE7gxU.png" group-title="News", ದಿಗ್ವಿಜಯ ಸುದ್ದಿ (Dighvijay News 24x7)
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KasthuriTV.in" tvg-name="Kasthuri TV" tvg-country="IN" tvg-language="Kannada" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Kasthuri_TV.png" group-title="Entertainment", ಕಸ್ತೂರಿ ಕನ್ನಡ (Kasthuri Kannada) (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Kannada.in" tvg-name="News 18 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://static.kannada.news18.com/kannada/uploads/2020/03/Kannada1.png" group-title="News", ನ್ಯೂಸ್ ೧೮ ಕನ್ನಡ (News 18 Kannada)
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="Public Music" tvg-country="IN" tvg-language="Kannada" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/public_music_in.png" group-title="Music", ಪಬ್ಲಿಕ್ ಸಂಗೀತ (Public Music) (576p)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1 tvg-id="SuvarnaNews24x7.in" tvg-name="Suvarna News 24×7" tvg-country="IN" tvg-language="Kannada" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/suvarna_news_in.png" group-title="News", ಸುವರ್ಣ ಸುದ್ದಿ (Suvarna News 24×7) (360p)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="TV9 Kannada" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/themes/tv9kannada/images/Tv9-Kannada-57x57.png" group-title="News", ಟಿವಿ೯ ಕನ್ನಡ (TV9 Kannada) (720p)
+https://vidcdn.vidgyor.com/tv9kannada-origin/live/playlist.m3u8
