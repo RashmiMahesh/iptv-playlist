@@ -12,8 +12,7 @@ jobs:
       - name: Commit Changes
         run: |
           curl https://iptv-org.github.io/iptv/languages/kan.m3u > list.m3u
-          curl https://iptv-org.github.io/iptv/countries/au.m3u | grep -iv -E 'melbourne|brisbane|hobart|darwin|adelaide|perth' >> list.m3u
-          curl https://iptv-org.github.io/iptv/countries/uk.m3u >> list.m3u
+          curl https://iptv-org.github.io/iptv/languages/eng.m3u >> list.m3u
           
           git config user.name github-actions
           git config user.email github-actions@github.com
