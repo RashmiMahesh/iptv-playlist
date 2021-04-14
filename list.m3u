@@ -21,7 +21,6 @@ https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
 #EXTINF:-1 tvg-id="10Sydney.au" tvg-name="10 Sydney" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" tvg-url="" group-title="",10 Sydney [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
 #EXTINF:-1 tvg-id="3AWMelburneWebradio.au" tvg-name="3AW Melburne (Webradio)" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Uvie0ws.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",3AW Melburne (Webradio)
-http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 #EXTINF:-1 tvg-id="7flix.au" tvg-name="7flix" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" tvg-url="" group-title="",7flix [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 #EXTINF:-1 tvg-id="7mate.au" tvg-name="7mate" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" tvg-url="" group-title="",7mate [Geo-blocked]
@@ -42,9 +41,7 @@ https://c.mjh.nz/101002210221/
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-id="ABCComedy.au" tvg-name="ABC Comedy" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.abc2.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Comedy
 https://c.mjh.nz/abc2/
-#EXTINF:-1 tvg-id="ABCDarwinAU.au" tvg-name="ABC Darwin AU" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Darwin AU
 https://c.mjh.nz/101002810281/
-#EXTINF:-1 tvg-id="ABCHobartAU.au" tvg-name="ABC Hobart AU" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Hobart AU
 https://c.mjh.nz/101002710271/
 #EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Kids
 https://c.mjh.nz/101002210222/
@@ -54,7 +51,6 @@ https://c.mjh.nz/101002210222/
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-id="ABCMe.au" tvg-name="ABC Me" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" tvg-url="" group-title="",ABC Me [Geo-blocked]
 https://c.mjh.nz/101002210224/
-#EXTINF:-1 tvg-id="ABCMelbourneAU.au" tvg-name="ABC Melbourne AU" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Melbourne AU
 https://c.mjh.nz/101002310231/
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-name="ABC News" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/XfBb8Pj.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC News
 http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
@@ -64,16 +60,13 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://c.mjh.nz/101002210220/
 #EXTINF:-1 tvg-id="ABCNewsAustralia2.au" tvg-name="ABC News Australia (2)" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rdkvOCh.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC News Australia (2)
 https://c.mjh.nz/101002210220/
-#EXTINF:-1 tvg-id="ABCPerthAU.au" tvg-name="ABC Perth AU" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Perth AU
 https://c.mjh.nz/3201026102E1/
 #EXTINF:-1 tvg-id="ABCSydneyAU.au" tvg-name="ABC Sydney AU" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/rLCHYCs.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ABC Sydney AU
 https://c.mjh.nz/101002210221/
 #EXTINF:-1 tvg-id="ABCTVPlus.au" tvg-name="ABC TV Plus" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png" tvg-url="" group-title="",ABC TV Plus [Geo-blocked]
 https://c.mjh.nz/abc2/
 #EXTINF:-1 tvg-id="ACC.au" tvg-name="ACC" tvg-country="AU" tvg-language="English" tvg-logo="http://www.acc.tv/wp-content/uploads/2016/06/acctv-logo-web.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ACC
-http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV (720p)
-https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 #EXTINF:-1 tvg-id="ACCTV.au" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" tvg-url="" group-title="",ACCTV [Geo-blocked]
@@ -108,7 +101,6 @@ https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="BountyPlus.au" tvg-name="Bounty Plus" tvg-country="AU" tvg-language="AU" tvg-logo="https://i.imgur.com/Q8mmLAB.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",Bounty Plus
 https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="C31.au" tvg-name="C31" tvg-country="AU" tvg-language="English" tvg-logo="" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="",C31 (Melbourne) (404p)
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
 #EXTINF:-1 tvg-id="ChannelV.cn" tvg-name="Channel V" tvg-country="APAC" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Music",Channel V
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
