@@ -12,7 +12,7 @@ jobs:
       - name: Commit Changes
         run: |
           curl https://iptv-org.github.io/iptv/languages/kan.m3u > list.m3u
-          curl https://iptv-org.github.io/iptv/languages/eng.m3u | grep -v 'group-title="XXX"' >> list.m3u
+          curl https://iptv-org.github.io/iptv/languages/eng.m3u | grep -iv -E 'adultiptv|redtraffic|jasminchannel|porn|gay|group-title="XXX"' >> list.m3u
           
           git config user.name github-actions
           git config user.email github-actions@github.com
