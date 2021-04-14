@@ -171,50 +171,7 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="AdultSwim.us" tvg-name="Adult Swim" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ixywxhs.jpg" tvg-url="" group-title="Entertainment",Adult Swim (1080p)
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
-http://cdn.adultiptv.net/anal.m3u8
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
-http://cdn.adultiptv.net/asian.m3u8
-http://cdn.adultiptv.net/bigass.m3u8
-http://live.redtraffic.xyz/bigass.m3u8
-http://cdn.adultiptv.net/bigdick.m3u8
-http://live.redtraffic.xyz/bigdick.m3u8
-http://cdn.adultiptv.net/bigtits.m3u8
-http://live.redtraffic.xyz/bigtits.m3u8
-http://cdn.adultiptv.net/blonde.m3u8
-http://cdn.adultiptv.net/blowjob.m3u8
-http://live.redtraffic.xyz/blowjob.m3u8
-http://cdn.adultiptv.net/brunette.m3u8
-http://cdn.adultiptv.net/compilation.m3u8
-http://cdn.adultiptv.net/cuckold.m3u8
-http://live.redtraffic.xyz/cuckold.m3u8
-http://cdn.adultiptv.net/fetish.m3u8
-http://live.redtraffic.xyz/fetish.m3u8
-http://cdn.adultiptv.net/gangbang.m3u8
-http://live.redtraffic.net/gangbang.m3u8
-http://cdn.adultiptv.net/gay.m3u8
-http://cdn.adultiptv.net/hardcore.m3u8
-http://live.redtraffic.xyz/hardcore.m3u8
-http://cdn.adultiptv.net/interracial.m3u8
-http://live.redtraffic.xyz/interracial.m3u8
-http://cdn.adultiptv.net/latina.m3u8
-http://live.redtraffic.xyz/latina.m3u8
-http://cdn.adultiptv.net/lesbian.m3u8
-http://live.redtraffic.xyz/lesbian.m3u8
-http://cdn.adultiptv.net/livecams.m3u8
-http://cdn.adultiptv.net/milf.m3u8
-http://live.redtraffic.xyz/milf.m3u8
-http://cdn.adultiptv.net/pornstar.m3u8
-http://live.redtraffic.xyz/pornstar.m3u8
-http://cdn.adultiptv.net/pov.m3u8
-http://live.redtraffic.xyz/pov.m3u8
-http://cdn.adultiptv.net/rough.m3u8
-http://cdn.adultiptv.net/russian.m3u8
-http://live.redtraffic.xyz/russian.m3u8
-http://cdn.adultiptv.net/teen.m3u8
-http://live.redtraffic.xyz/teen.m3u8
-http://cdn.adultiptv.net/threesome.m3u8
-http://live.redtraffic.xyz/threesome.m3u8
-http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" tvg-url="" group-title="",Adventure Sports Network (XUMO)
@@ -1548,8 +1505,6 @@ http://51.52.156.22:8888/http/007
 https://nimble.dashstreams.net/onestudio/its_comming_soon/playlist.m3u8
 #EXTINF:-1 tvg-id="JamesBond007.us" tvg-name="James Bond 007" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png" tvg-url="" group-title="",James Bond 007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JBS.us" tvg-name="JBS" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pHJm3I0.png" tvg-url="" group-title="Religious",JBS
 https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 tvg-id="JewelryTelevision.us" tvg-name="Jewelry Television" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1HJraea.png" tvg-url="" group-title="Shop",Jewelry Television (720p)
