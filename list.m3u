@@ -235,16 +235,6 @@ https://ed1ov.live.opencaster.com/GzyysAAvEhht/index.m3u8
 https://ac-samsung.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="Asianet News" tvg-country="IN" tvg-language="English" tvg-logo="https://static.asianetnews.com/v1/images/malayalam-live-tv.jpg" tvg-url="" group-title="News",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
-https://www.ast.tv/stream/1/ultra.m3u8
-https://www.ast.tv/stream/1/high.m3u8
-https://www.ast.tv/stream/1/normal.m3u8
-http://www.ast.tv/stream/1/master.m3u8
-http://www.ast.tv/stream/1/cellular.m3u8
-http://www.ast.tv/stream/2/cellular.m3u8
-https://www.ast.tv/stream/2/ultra.m3u8
-https://www.ast.tv/stream/2/high.m3u8
-https://www.ast.tv/stream/2/normal.m3u8
-http://www.ast.tv/stream/2/master.m3u8
 #EXTINF:-1 tvg-id="Asylum.us" tvg-name="Asylum" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j98vGQp.jpg" tvg-url="" group-title="",Asylum (XUMO)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel.us" tvg-name="Atlanta Channel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hSYez3V.png" tvg-url="" group-title="Travel",Atlanta Channel (720p)
