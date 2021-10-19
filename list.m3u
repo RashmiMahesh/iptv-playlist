@@ -1328,6 +1328,8 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IslandLuckTV.bs" tvg-country="BS" tvg-language="English" tvg-logo="https://www.islandluck.com/images/logo.png" group-title="Entertainment",Island Luck TV (1080p) [Not 24/7]
+https://wowzaprod225-i.akamaihd.net/hls/live/1006296/23aa8a88/playlist.m3u8
 #EXTINF:-1 tvg-id="ISN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pmqYFk9.jpg" group-title="Religious",ISN (1080p)
 https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
 #EXTINF:-1 tvg-id="ITV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="",ITV (302p) [Not 24/7]
@@ -1375,6 +1377,8 @@ https://goliveafrica.media:9998/live/60755313b36db/index.m3u8
 https://iptv--iptv.repl.co/streamlink?url=https://dai.ly/x74211t
 #EXTINF:-1 tvg-id="KBPSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QleHNMl.png" group-title="Sports",KBP Sports (720p) [Not 24/7]
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSVAssyriaSat.us" tvg-country="US" tvg-language="Assyrian Neo-Aramaic;English" tvg-logo="https://i.imgur.com/zEWSSdf.jpg" group-title="",KBSV/AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="KCRTTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mNK5D5k.jpg" group-title="",KCRT-TV 28 Richmond CA (KCRT) (360p)
 http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/chunklist.m3u8
 #EXTINF:-1 tvg-id="KDOCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/qX4bQox.jpg" group-title="Local",KDOC-TV Los Angeles CA (720p) [Not 24/7]
@@ -3201,6 +3205,8 @@ https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
 https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 tvg-id="SeattleChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NfE5jtp.png" group-title="Local",Seattle Channel (720p) [Not 24/7]
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
 #EXTINF:-1 tvg-id="SentTVGlobalNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ogvLLji.png" group-title="General",Sent TV Global Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
 #EXTINF:-1 tvg-id="ServeurTV.in" tvg-country="IN" tvg-language="English" tvg-logo="" group-title="",Serveur TV (720p)
